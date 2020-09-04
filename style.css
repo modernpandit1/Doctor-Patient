@@ -1,0 +1,147 @@
+body{
+margin=0px;
+padding=0px;
+font-family:sans-serif;
+
+}
+.header{
+width:100%;
+height:55px;
+background:rgb(178, 255, 51);
+position top:0px;
+}
+.wrapcontainer{
+	width:90%;
+height:0px auto;
+}
+.image{
+	width:170px;
+height:50px;
+padding:10px 0xp;
+}
+
+
+.menu ul li{
+	list-style:none;
+	display:inline;
+	color:white;
+	margin-right:30px;
+	
+	padding 30px;
+	font size=10px;
+	padding:10px;
+	line-height:1.5;
+	border-radius:10px;
+	position:relative;
+}
+.menu ul li:hover{
+background:rgb(255, 144, 51)  ;
+opacity:0:1;
+}
+		
+.menu ul ul{
+	background:rgb(178, 255, 51);
+	position:absolute;
+	display:none;
+	padding:0;
+	margin:0;
+	top:100%;
+	margin-left:-80px;
+	height:170px;
+	width:120px;
+	line-height:40px;
+	text-align:center;
+	opacity:0:1;
+	border-radius:5px;
+	
+    }
+.menu ul li:hover > ul{
+	 display:inline;
+	 margin top:20px;
+	 
+}  
+	
+.menu ul li a{
+	text-decoration:none;
+		
+}
+.menu{
+	float:right;
+}
+.image{
+	float:left;
+}
+.wrapcontent{
+	padding-top:10%;
+	padding-bottom:34%;
+	background: url(D:\wallpaper/aa.png) 100% fixed;
+	background-size:cover;
+	height=100vh;
+	background-position:center;
+	height=100vh;
+	background-position:center;
+	}
+.wrapcont{
+	padding-top:10%;
+	padding-bottom:34%;
+	background: url(D:\wallpaper/b.jpg) 100% fixed;
+	background-size:cover;
+	background-position:center;
+}
+	.wrapcont1{
+		padding-top:10%;
+	padding-bottom:34%;
+	background: url(D:\wallpaper/1a.jpg) 100% fixed;
+	background-size:cover;
+	background-position:center;
+		
+	}
+	.wrapcont2{
+		padding-top:10%;
+	padding-bottom:34%;
+	background: url(D:\wallpaper/15.jpg) 100% fixed;
+	background-size:cover;
+	background-position:center;
+		
+	}
+	.wrapcont3{
+		padding-top:10%;
+	padding-bottom:34%;
+	background: url(D:\wallpaper/b1.jpg) 100% fixed;
+	background-size:cover;
+	background-position:center;
+	}
+	
+	#loginpage. body{
+margin:0;
+padding:0;
+backgroud:url(H:\project ip lap\image/a.jpg);
+backgroud-size:cover;
+backgroud-position:center;
+font-family:sans-serif;
+}
+	.login{
+		width:320px;
+		height:420px;
+		background:rgba(0,0,0,0.5);
+		color:afff;
+		top=50%;
+		left:50%;
+		position :absolute;
+		transform:translate(-50%,-50%);
+		box-sizing=border-box;
+	}
+	.image{
+		width:100px;
+		height:100px;
+		border-radis:50%;
+		position:absolute;
+		top:-50px;
+		left:calc(50%-50px); 
+	}
+		
+	 	
+		
+		
+		
+		
